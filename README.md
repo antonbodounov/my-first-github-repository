@@ -6,3 +6,5 @@ This line was modified locally during conflict resolution
 New line was added locally
 
 One more line added locally in VS code.
+
+Edit in the feature-2 branch
